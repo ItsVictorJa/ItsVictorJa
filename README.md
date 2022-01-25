@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsVictorJa
+- 👀 I’m interested in Python programming and creating robots
+- 🌱 I’m currently a student 
+- 📫 How to reach me discord: Its_VictorJa#5555 
